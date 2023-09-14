@@ -1,0 +1,22 @@
+.tab{
+   background-color:  #FADBD8;
+}
+ 
+.nav2 h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+
+ a{
+    color:#FF333F !important;
+    text-decoration: none !important;
+}
+a:hover{
+    color: rgb(34, 31, 33) ;
+    background-color:  rgb(228, 44, 173);
+}
+.link a{
+  
+    color: rgb(34, 31, 33) !important;
+    background-color:  rgb(228, 44, 173) !important;
+}

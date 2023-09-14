@@ -1,0 +1,91 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.tab{
+    background-color:  #FADBD8;
+ }
+ a{
+    color:#FF333F;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+ background-color:  #FF333F;
+ padding:20px;
+ color: black;
+}
+.tab a:hover{
+    text-decoration: none;
+ background-color:  rgb(230, 38, 38);
+ padding:15px;
+ color: black;
+}
+.nav2{
+    font-size: 35px;
+    padding: 12px;
+}
+#mj{
+color: #FF333F;
+}
+.nav2 a {
+    color:black;
+    text-decoration: none;
+    
+}
+
+.nav2 a:hover {
+    text-decoration: none;
+ background-color:    rgb(230, 38, 38)
+ !important;
+
+}
+h1{
+    font-size: 50px;
+    color: #FF333F;
+
+}
+.link a{
+    color: black !important;
+}
+.table-home{
+    text-align: center;
+}
+.tab2{
+    background-color: #FEF9E7 !important;
+    text-align: center !important;
+}
+.tab3{
+    color: #FDEDEC ;
+}
+.boutton{
+    display:flex;
+    justify-content: center;
+}
+.boutton a:hover{
+    background-color:none !important;
+    padding: 0px !important;
+    box-shadow: -5px 2px 31px 10px rgba(0,0,0,0.75);
+-webkit-box-shadow: -5px 2px 31px 10px rgba(0,0,0,0.75);
+-moz-box-shadow: -5px 2px 31px 10px rgba(0,0,0,0.75);
+}
+.foot{
+    background-color: #FEF9E7;
+  
+}
+.aa
+    {
+display: flex;
+justify-content: center;
+width: 100% ;
+}
+.tab-contact{
+background-color: #FDEDEC;
+}
+#boutton{
+    background-color: #FF333F;
+    border: none;
+    padding: 25px;
+    border-radius: 6px;
+    color: beige;
+    margin-left: 88px;
+}
